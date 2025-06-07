@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "description": "AI/ML practice",
+        "status": "in-progress",
+        "createdAT": "2025-06-07T12:57:32.569251",
+        "updatedAT": "2025-06-07T13:06:33.052229"
+    },
+    {
+        "id": 2,
+        "description": "Backend with fast api",
+        "status": "todo",
+        "createdAT": "2025-06-07T12:58:06.292001",
+        "updatedAT": "2025-06-07T12:58:06.292021"
+    },
+    {
+        "id": 3,
+        "description": "Generative AI with Langchain",
+        "status": "todo",
+        "createdAT": "2025-06-07T12:58:37.918224",
+        "updatedAT": "2025-06-07T12:58:37.918251"
+    },
+    {
+        "id": 4,
+        "description": "Data Structures ans Algorithms",
+        "status": "todo",
+        "createdAT": "2025-06-07T12:59:07.614611",
+        "updatedAT": "2025-06-07T12:59:07.614632"
+    },
+    {
+        "id": 5,
+        "description": "Python basics",
+        "status": "done",
+        "createdAT": "2025-06-07T12:59:42.415127",
+        "updatedAT": "2025-06-07T13:07:13.856591"
+    },
+    {
+        "id": 6,
+        "description": "Job search",
+        "status": "in-progress",
+        "createdAT": "2025-06-07T12:59:58.117024",
+        "updatedAT": "2025-06-07T13:06:01.862057"
+    },
+    {
+        "id": 7,
+        "description": "Robotics ",
+        "status": "todo",
+        "createdAT": "2025-06-07T13:00:17.322100",
+        "updatedAT": "2025-06-07T13:00:17.322126"
+    },
+    {
+        "id": 8,
+        "description": "LinkedIn and Github profile update",
+        "status": "todo",
+        "createdAT": "2025-06-07T13:01:11.305910",
+        "updatedAT": "2025-06-07T13:05:22.873705"
+    },
+    {
+        "id": 9,
+        "description": "SQL and Databases Practice",
+        "status": "todo",
+        "createdAT": "2025-06-07T13:02:08.642872",
+        "updatedAT": "2025-06-07T13:02:08.642897"
+    },
+    {
+        "id": 10,
+        "description": "making Projects with all the Knowledge gained",
+        "status": "in-progress",
+        "createdAT": "2025-06-07T13:03:35.168506",
+        "updatedAT": "2025-06-07T13:06:18.445106"
+    }
+]
